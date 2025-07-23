@@ -1,1 +1,2 @@
-merhaba ben şevval özekincifddsfs
+merhaba ben şevval özekinci değilim artık adımı elif olarak değiştirdimm
+print("hello sevval)
