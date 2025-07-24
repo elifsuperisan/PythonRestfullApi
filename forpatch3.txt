@@ -1,0 +1,2 @@
+patch3 için açtım burayı ve commit etmeyi deneyeceğim sonrasında da mainle merge etmeyi denerim 
+not: umarım olur 
