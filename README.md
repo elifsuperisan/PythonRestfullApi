@@ -1,1 +1,1 @@
-yeniden denicem main branchına gönderiyorum
+yeniden denicem main branchına gönderiyorum. tekrardna deniyorum .güncelleidm ikindci defa
